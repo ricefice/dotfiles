@@ -1,2 +1,4 @@
-# dotfiles
-#reusable dotfiles
+# reusable dotfiles
+
+- **.tmux.conf**
+
