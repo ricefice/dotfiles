@@ -2,12 +2,12 @@
 
 - **.tmux.conf**
 
-- ** gitignore **
+- **gitignore**
   
   - node
   - typescript
   - scala
   - clojure
 
-- ** dockerignore **
+- **dockerignore**
   - node
